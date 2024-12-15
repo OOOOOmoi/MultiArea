@@ -1,1 +1,3 @@
 GeNN的多脑区模型Demo，其中generateCode是生成记录函数的代码，由于GeNN自带的变量记录功能有限，因此需要自己编写这部分内容。
+
+MultiArea.cc是指导代码生成的函数，MultiAreaSim.cc是模拟的主函数，需要连接生成的代码进行编译。
